@@ -65,4 +65,4 @@ runExample = do
   let aL = [1,2,3,4]
       aR = [5,6,7,8]
   proof <- testArithCircuitProof (aL, aR) arithCircuitExample
-  putText $ "Arimetic circuit proof success: " <> show proof
+  putText $ "Arithmetic circuit proof success: " <> show proof
