@@ -12,7 +12,7 @@
 Bulletproofs are short zero-knowledge arguments of knowledge that do not require a trusted setup.
 Argument systems are proof systems with computational soundness.
 
-Bulletproofs are suitable for proving statements on committed values, such as range proofs, verifiable suffles, arithmetic circuits, etc.
+Bulletproofs are suitable for proving statements on committed values, such as range proofs, verifiable shuffles, arithmetic circuits, etc.
 They rely on the discrete logarithmic assumption and are made non-interactive using
 the Fiat-Shamir heuristic.
 
